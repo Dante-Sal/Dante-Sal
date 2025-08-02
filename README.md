@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/-JSON-black?style=flat&logo=json">
   <img src="https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&logoColor=orange">
-  <img src="https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/-CSS-black?style=flat&logo=css&logoColor=blue">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow">
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=green">
