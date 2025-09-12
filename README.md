@@ -40,7 +40,7 @@ Soy Simón Dante Salamanca Galvis. Descubrí la programación en noveno grado y 
 ---
 
 ### 🌟 Proyectos destacados
-- **Gestor de Portafolio de Proyectos Freelance** — Node.js.  
+- **Gestor de Portafolio de Proyectos Freelance** — Node.js/MongoDB.  
   _Gestión de freelancers, clientes, proyectos, contratos, entregables y finanzas._ — [Repo](#)
 
 - **Sistema Hospitalario** — MongoDB.  
