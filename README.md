@@ -4,7 +4,7 @@
 💻 Desarrollador Full-Stack Junior 
 </p>
 
-Soy Simón Dante Salamanca Galvis (Dante). Descubrí la programación en noveno grado y desde entonces la convertí en mi camino profesional. Abordo cada proyecto con rigor, atención al detalle y una mentalidad de mejora continua. Disfruto colaborar, proponer ideas creativas y construir soluciones en equipo. Abierto a nuevas oportunidades y colaboraciones.
+Soy Simón Dante Salamanca Galvis. Descubrí la programación en noveno grado y desde entonces la convertí en mi camino profesional. Abordo cada proyecto con rigor, atención al detalle y una mentalidad de mejora continua. Disfruto colaborar, proponer ideas creativas y construir soluciones en equipo. Abierto a nuevas oportunidades y colaboraciones.
 
 ---
 
@@ -75,9 +75,9 @@ Soy Simón Dante Salamanca Galvis (Dante). Descubrí la programación en noveno 
     <img src="https://img.shields.io/badge/Email-DanteSalamanca-red?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://dante-sal.github.io/Portafolio_DanteSalamanca/">
-  <img src="https://img.shields.io/badge/Portafolio-Web-blue?style=flat&logo=google-chrome" alt="Portfolio">
-</a>
-  <a href="[https://www.linkedin.com/in/tu-linkedin/](https://www.linkedin.com/in/dante-salamanca-galvis-5370b2356/)">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecta-blue?style=flat&logo=linkedin" alt="LinkedIn">
-</a>
+    <img src="https://img.shields.io/badge/Portafolio-Web-blue?style=flat&logo=google-chrome" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/dante-salamanca-galvis-5370b2356/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+  </a>
 </p>
