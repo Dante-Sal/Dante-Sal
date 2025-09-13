@@ -77,7 +77,7 @@ Soy Simón Dante Salamanca Galvis. Descubrí la programación en noveno grado y 
   <a href="https://dante-sal.github.io/Portafolio_DanteSalamanca/">
     <img src="https://img.shields.io/badge/Portafolio-Web-blue?style=flat&logo=google-chrome" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/dante-salamanca-galvis-5370b2356/">
+  <a href="https://www.linkedin.com/in/sim%C3%B3n-dante-salamanca-galvis-5370b2356/?profileId=ACoAAFilq3sBrRfMRLrRXmGbFXxmwU-fWU8LsGo">
     <img src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
 </p>
