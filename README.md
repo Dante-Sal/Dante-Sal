@@ -29,9 +29,9 @@ Soy Simón Dante Salamanca Galvis. Descubrí la programación en noveno grado y 
 <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python">
 
 **Datos:**  
-<img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql">
 <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb">
 <img src="https://img.shields.io/badge/JSON-000?style=flat&logo=json">
+<img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql">
 
 **Herramientas:**  
 <img src="https://img.shields.io/badge/Git-000?style=flat&logo=git">
@@ -40,8 +40,8 @@ Soy Simón Dante Salamanca Galvis. Descubrí la programación en noveno grado y 
 ---
 
 ### 🌟 Proyectos destacados
-- **Gestor de Portafolio de Proyectos Freelance** — Node.js/MongoDB.  
-  _Gestión de freelancers, clientes, proyectos, contratos, entregables y finanzas._ — [Repo](#)
+- **Gestor de Portafolio de Proyectos Freelance** — JavaScript/MongoDB/Node.js.  
+  _Gestión de freelancers, clientes, proyectos, contratos, entregables y finanzas._ — [Repo](https://github.com/Maria-Juliana-Saavedra-Mejia/Gestor_Portafolio_Proyectos_Freelance)
 
 - **Sistema Hospitalario** — MongoDB.  
   _Implementación de BD hospitalaria en MongoDB: organización eficiente de datos médicos._ — [Repo](https://github.com/Dante-Sal/Sistema_Hospitalario)
